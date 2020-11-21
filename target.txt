@@ -1,0 +1,16 @@
+#hh:mm
+target@domail.com|message subject|message body
+target@domail.com|message subject|message body
+target@domail.com|message subject|message body
+#hh::mm
+target@domail.com|message subject|message body
+target@domail.com|message subject|message body
+#hh:mm
+target@domail.com|message subject|message body
+target@domail.com|message subject|message body
+target@domail.com|message subject|message body
+target@domail.com|message subject|message body
+#hh:mm
+target@domail.com|message subject|message body
+#hh:mm
+target@domail.com|message subject|message body
